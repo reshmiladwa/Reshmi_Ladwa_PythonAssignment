@@ -83,4 +83,3 @@ nc["national_category"].value_counts()
 
 #List of appointment statuses
 ar["appointment_status"].value_counts()
-[Assignment File.docx](https://github.com/reshmiladwa/Reshmi_Ladwa_PythonAssignment/files/9895453/Assignment.File.docx)
